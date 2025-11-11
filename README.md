@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HEAD
 # React + Vite
 
@@ -15,7 +14,6 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Project-Tailwind1
 546402c0b323ab40a816a5a02de40f94891a6968
-=======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -52,4 +50,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> d11a337 (Initial commit from Create Next App)
+d11a337 (Initial commit from Create Next App)
